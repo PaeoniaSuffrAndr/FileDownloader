@@ -1,5 +1,4 @@
 ﻿#encoding=utf-8
-__author__ = 'wentao'
 
 import urllib
 from log import LOG
